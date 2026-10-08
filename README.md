@@ -18,10 +18,7 @@ built to fit on a 1.44MB floppy disk, 1,474,560 bytes, no exceptions. No
 engine, software-rendered, audio synthesized in code instead of shipped as
 files.
 
-**[Web3-encrypted-files-vault](https://github.com/harry-sandhu/Web3-encrypted-files-vault)**
-- file vault where the server never sees a plaintext file or a key.
-Encryption happens client-side with AES-GCM, key derived from a wallet
-signature plus a PIN.
+**[Web3-encrypted-files-vault](https://github.com/harry-sandhu/Web3-encrypted-files-vault)** - file vault where the server never sees a plaintext file or a key. Encryption happens client-side with AES-GCM, key derived from a wallet signature plus a PIN.
 
 **[website-auditor](https://github.com/harry-sandhu/website-crawler)** - CLI
 that drives a real browser instead of just parsing HTML, then audits SEO,
