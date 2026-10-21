@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Harry+Sandhu;Backend+%2B+full-stack+engineer;I+like+problems+with+real+constraints;Currently+building+Cinder" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12&text=Harry%20Sandhu&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Backend%20%2B%20full-stack%20engineer&descAlignY=58&descAlign=50" alt="header" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harry-sandhu/harry-sandhu/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harry-sandhu/harry-sandhu/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" width="100%" src="https://raw.githubusercontent.com/harry-sandhu/harry-sandhu/output/github-contribution-grid-snake.svg" />
+</picture>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-harry--sandhu.github.io-111?style=for-the-badge)](https://harry-sandhu.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-harcharan--singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harcharan-singh-5789b625a)
@@ -60,12 +66,6 @@ here once they're far enough along to show.
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harry-sandhu&layout=compact&hide_border=true&theme=tokyonight" />
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harry-sandhu&hide_border=true&theme=tokyonight)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harry-sandhu/harry-sandhu/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harry-sandhu/harry-sandhu/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/harry-sandhu/harry-sandhu/output/github-contribution-grid-snake.svg" />
-</picture>
 
 </div>
 
