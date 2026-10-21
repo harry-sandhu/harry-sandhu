@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/120314298?v=4" width="120" style="border-radius:50%" alt="Harry Sandhu" />
+<img src="https://avatars.githubusercontent.com/u/120314298?v=4" width="110" style="border-radius:50%" alt="Harry Sandhu" />
 
-# Harry Sandhu
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Harry+Sandhu;Backend+%2B+full-stack+engineer;I+like+problems+with+real+constraints;Currently+building+Cinder" alt="Typing SVG" />
 
-Software engineer building backend systems, full-stack products, and developer tooling.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-harry--sandhu.github.io-111?style=flat-square)](https://harry-sandhu.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-harcharan--singh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harcharan-singh-5789b625a)
-[![Email](https://img.shields.io/badge/Email-singh.harcharan2003%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:singh.harcharan2003@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-harry--sandhu.github.io-111?style=for-the-badge)](https://harry-sandhu.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-harcharan--singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harcharan-singh-5789b625a)
+[![Email](https://img.shields.io/badge/Email-contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singh.harcharan2003@gmail.com)
 
 </div>
 
@@ -48,13 +46,13 @@ here once they're far enough along to show.
 
 ## Stack
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,nodejs,nextjs,react,express,postgres,mongodb,docker,git&theme=dark" />
+</a>
+
+</div>
 
 ## GitHub
 
@@ -64,6 +62,16 @@ here once they're far enough along to show.
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harry-sandhu&layout=compact&hide_border=true&theme=tokyonight" />
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harry-sandhu&hide_border=true&theme=tokyonight)
+
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harry-sandhu&theme=tokyo-night&hide_border=true)
+
+<img src="https://github-profile-trophy.vercel.app/?username=harry-sandhu&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harry-sandhu/harry-sandhu/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harry-sandhu/harry-sandhu/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/harry-sandhu/harry-sandhu/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
