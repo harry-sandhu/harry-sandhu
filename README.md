@@ -63,10 +63,6 @@ here once they're far enough along to show.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harry-sandhu&hide_border=true&theme=tokyonight)
 
-![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harry-sandhu&theme=tokyo-night&hide_border=true)
-
-<img src="https://github-profile-trophy.vercel.app/?username=harry-sandhu&theme=tokyonight&no-frame=true&row=1&column=6" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harry-sandhu/harry-sandhu/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harry-sandhu/harry-sandhu/output/github-contribution-grid-snake.svg" />
