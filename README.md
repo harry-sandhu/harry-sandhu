@@ -43,10 +43,10 @@ here once they're far enough along to show.
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harry-sandhu&hide_border=true&theme=tokyonight)
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harry-sandhu&layout=compact&hide_border=true&theme=tokyonight" alt="top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=harry-sandhu&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harry-sandhu&layout=compact&hide_border=true&theme=tokyonight" />
 
-<img width="100%" src="https://raw.githubusercontent.com/harry-sandhu/harry-sandhu/main/metrics.svg" alt="metrics dashboard" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harry-sandhu&hide_border=true&theme=tokyonight)
 
 </div>
 
