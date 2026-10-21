@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/120314298?v=4" width="110" style="border-radius:50%" alt="Harry Sandhu" />
-
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Harry+Sandhu;Backend+%2B+full-stack+engineer;I+like+problems+with+real+constraints;Currently+building+Cinder" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-harry--sandhu.github.io-111?style=for-the-badge)](https://harry-sandhu.github.io/portfolio/)
