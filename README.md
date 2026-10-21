@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12&text=Harry%20Sandhu&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Backend%20%2B%20full-stack%20engineer&descAlignY=58&descAlign=50" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1a1b27,100:414868&text=Harry%20Sandhu&fontColor=7aa2f7&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Backend%20%2B%20full-stack%20engineer&descAlignY=58&descAlign=50&descColor=a9b1d6" alt="header" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harry-sandhu/harry-sandhu/output/github-contribution-grid-snake-dark.svg" />
@@ -8,9 +8,9 @@
   <img alt="contribution snake animation" width="100%" src="https://raw.githubusercontent.com/harry-sandhu/harry-sandhu/output/github-contribution-grid-snake.svg" />
 </picture>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-harry--sandhu.github.io-111?style=for-the-badge)](https://harry-sandhu.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-harcharan--singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harcharan-singh-5789b625a)
-[![Email](https://img.shields.io/badge/Email-contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singh.harcharan2003@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-harry--sandhu.github.io-1a1b27?style=flat-square&labelColor=1a1b27&color=7aa2f7)](https://harry-sandhu.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-harcharan--singh-1a1b27?style=flat-square&labelColor=1a1b27&color=bb9af7&logo=linkedin&logoColor=bb9af7)](https://www.linkedin.com/in/harcharan-singh-5789b625a)
+[![Email](https://img.shields.io/badge/Email-contact-1a1b27?style=flat-square&labelColor=1a1b27&color=7dcfff&logo=gmail&logoColor=7dcfff)](mailto:singh.harcharan2003@gmail.com)
 
 </div>
 

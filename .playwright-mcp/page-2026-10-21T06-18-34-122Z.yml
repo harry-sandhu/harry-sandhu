@@ -1,0 +1,279 @@
+- generic [ref=f3e2]:
+  - generic [ref=f3e3]:
+    - link "Skip to content" [ref=f3e4] [cursor=pointer]:
+      - /url: "#start-of-content"
+    - banner [ref=f3e9]:
+      - heading "Navigation Menu" [level=2] [ref=f3e10]
+      - generic [ref=f3e12]:
+        - button "Toggle navigation" [ref=f3e14] [cursor=pointer]
+        - link "Homepage" [ref=f3e18] [cursor=pointer]:
+          - /url: /
+        - generic [ref=f3e21]:
+          - link "Sign in" [ref=f3e22] [cursor=pointer]:
+            - /url: /login?return_to=https%3A%2F%2Fgithub.com%2Fharry-sandhu%3Fv%3D3
+          - button "Appearance settings" [ref=f3e25] [cursor=pointer]
+  - main [ref=f3e31]:
+    - generic [ref=f3e34]:
+      - generic [ref=f3e35]:
+        - generic:
+          - generic:
+            - generic:
+              - img "@harry-sandhu"
+            - generic:
+              - strong: harry-sandhu
+              - generic:
+                - generic:
+                  - link "Follow":
+                    - /url: /login?return_to=https%3A%2F%2Fgithub.com%2Fharry-sandhu%3Fv%3D3
+      - generic [ref=f3e37]:
+        - navigation "User profile" [ref=f3e38]:
+          - link "Overview" [ref=f3e39] [cursor=pointer]:
+            - /url: /harry-sandhu
+          - link "Repositories 24" [ref=f3e42] [cursor=pointer]:
+            - /url: /harry-sandhu?tab=repositories
+            - text: Repositories
+            - generic "24" [ref=f3e45]
+          - link "Projects" [ref=f3e46] [cursor=pointer]:
+            - /url: /harry-sandhu?tab=projects
+          - link "Packages" [ref=f3e49] [cursor=pointer]:
+            - /url: /harry-sandhu?tab=packages
+        - group [ref=f3e54]:
+          - button "More" [ref=f3e55] [cursor=pointer]
+    - generic [ref=f3e61]:
+      - generic [ref=f3e63]:
+        - generic:
+          - generic:
+            - generic:
+              - img "@harry-sandhu"
+            - generic:
+              - generic:
+                - strong: harry-sandhu
+            - generic:
+              - generic:
+                - generic:
+                  - link "Follow":
+                    - /url: /login?return_to=https%3A%2F%2Fgithub.com%2Fharry-sandhu%3Fv%3D3
+        - generic [ref=f3e64]:
+          - generic [ref=f3e65]:
+            - link [ref=f3e67] [cursor=pointer]:
+              - /url: https://avatars.githubusercontent.com/u/120314298?v=4
+              - img "View harry-sandhu's full-sized avatar" [ref=f3e68]
+            - heading "Harry Sandhu harry-sandhu" [level=1] [ref=f3e70]:
+              - generic [ref=f3e71]: Harry Sandhu
+              - generic [ref=f3e72]: harry-sandhu
+          - generic [ref=f3e73]:
+            - link "Follow" [ref=f3e80] [cursor=pointer]:
+              - /url: /login?return_to=https%3A%2F%2Fgithub.com%2Fharry-sandhu%3Fv%3D3
+            - generic [ref=f3e81]:
+              - generic [ref=f3e82]: Software Engineer building backend systems, full-stack products, and developer tooling.
+              - generic [ref=f3e85]:
+                - link "1 follower" [ref=f3e86] [cursor=pointer]:
+                  - /url: https://github.com/harry-sandhu?tab=followers
+                - text: ·
+                - link "2 following" [ref=f3e89] [cursor=pointer]:
+                  - /url: https://github.com/harry-sandhu?tab=following
+              - list [ref=f3e90]:
+                - listitem [ref=f3e91]:
+                  - link "https://harry-sandhu.github.io/portfolio/" [ref=f3e94] [cursor=pointer]:
+                    - /url: https://harry-sandhu.github.io/portfolio/
+          - button "Block or report user" [ref=f3e96] [cursor=pointer]
+      - generic [ref=f3e101]:
+        - generic [ref=f3e103]:
+          - generic [ref=f3e105]:
+            - link "harry-sandhu" [ref=f3e106] [cursor=pointer]:
+              - /url: /harry-sandhu/harry-sandhu
+            - generic [ref=f3e107]: /
+            - text: README.md
+          - article [ref=f3e108]:
+            - generic [ref=f3e109]:
+              - link [ref=f3e110] [cursor=pointer]:
+                - /url: https://avatars.githubusercontent.com/u/120314298?v=4
+                - img "Harry Sandhu" [ref=f3e111]
+              - link [ref=f3e112] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/bb90ec8e71de3b96b471184f517e70b85997f1048110adf1105d091d82d74f9a/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d2f3f666f6e743d466972612b436f64652673697a653d32322670617573653d3130303026636f6c6f723d3538413646462663656e7465723d74727565267643656e7465723d747275652677696474683d363030266c696e65733d48617272792b53616e6468753b4261636b656e642b2532422b66756c6c2d737461636b2b656e67696e6565723b492b6c696b652b70726f626c656d732b776974682b7265616c2b636f6e73747261696e74733b43757272656e746c792b6275696c64696e672b43696e646572
+                - img "Typing SVG" [ref=f3e113]
+              - paragraph [ref=f3e114]:
+                - link [ref=f3e115] [cursor=pointer]:
+                  - /url: https://harry-sandhu.github.io/portfolio/
+                  - img "Portfolio" [ref=f3e116]
+                - link [ref=f3e117] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/harcharan-singh-5789b625a
+                  - img "LinkedIn" [ref=f3e118]
+                - link [ref=f3e119] [cursor=pointer]:
+                  - /url: mailto:singh.harcharan2003@gmail.com
+                  - img "Email" [ref=f3e120]
+            - paragraph [ref=f3e121]: I build backend systems and full-stack products. I also like projects where the technical constraints are part of the problem.
+            - generic [ref=f3e122]:
+              - heading "Projects" [level=2] [ref=f3e123]
+              - 'link "Permalink: Projects" [ref=f3e124] [cursor=pointer]':
+                - /url: "#projects"
+            - paragraph [ref=f3e127]:
+              - strong [ref=f3e128]:
+                - link "Campfire" [ref=f3e129] [cursor=pointer]:
+                  - /url: https://github.com/harry-sandhu/Campfire
+              - text: "- internal ticketing system. Permission model (groups, roles, audit log) backed by integration and e2e tests instead of assumed correct."
+              - link "Live demo" [ref=f3e130] [cursor=pointer]:
+                - /url: https://www.autodao.tech
+            - paragraph [ref=f3e131]:
+              - strong [ref=f3e132]:
+                - link "ROTOR" [ref=f3e133] [cursor=pointer]:
+                  - /url: https://github.com/harry-sandhu/ROTOR
+              - text: "- drone-building tool where compatibility rules live in a typed API instead of a warning dialog, so a bad configuration can't reach the screen."
+            - paragraph [ref=f3e134]:
+              - strong [ref=f3e135]:
+                - link "FloppyRogue" [ref=f3e136] [cursor=pointer]:
+                  - /url: https://github.com/harry-sandhu/FLOPPYROUGE
+              - text: "- roguelite built to fit on a 1.44MB floppy disk, 1,474,560 bytes, no exceptions. No engine, software-rendered, audio synthesized in code instead of shipped as files."
+            - paragraph [ref=f3e137]:
+              - strong [ref=f3e138]:
+                - link "Web3-encrypted-files-vault" [ref=f3e139] [cursor=pointer]:
+                  - /url: https://github.com/harry-sandhu/Web3-encrypted-files-vault
+              - text: "- file vault where the server never sees a plaintext file or a key. Encryption happens client-side with AES-GCM, key derived from a wallet signature plus a PIN."
+            - paragraph [ref=f3e140]:
+              - strong [ref=f3e141]:
+                - link "website-auditor" [ref=f3e142] [cursor=pointer]:
+                  - /url: https://github.com/harry-sandhu/website-crawler
+              - text: "- CLI that drives a real browser instead of just parsing HTML, then audits SEO, accessibility, performance, and security. Active checks stay scoped to the target host and rate-limited by default."
+            - paragraph [ref=f3e143]:
+              - strong [ref=f3e144]: Cinder
+              - text: "- private startup project, a semantic runtime that turns tagged UI into something a voice or text command can act on."
+              - link "usecinder.dev" [ref=f3e145] [cursor=pointer]:
+                - /url: https://www.usecinder.dev/
+            - generic [ref=f3e146]:
+              - heading "Currently" [level=2] [ref=f3e147]
+              - 'link "Permalink: Currently" [ref=f3e148] [cursor=pointer]':
+                - /url: "#currently"
+            - paragraph [ref=f3e151]: Working on Cinder day to day, plus a few backend side projects that end up here once they're far enough along to show.
+            - generic [ref=f3e152]:
+              - heading "Stack" [level=2] [ref=f3e153]
+              - 'link "Permalink: Stack" [ref=f3e154] [cursor=pointer]':
+                - /url: "#stack"
+            - link [ref=f3e158] [cursor=pointer]:
+              - /url: https://skillicons.dev
+            - generic [ref=f3e160]:
+              - heading "GitHub" [level=2] [ref=f3e161]
+              - 'link "Permalink: GitHub" [ref=f3e162] [cursor=pointer]':
+                - /url: "#github"
+            - generic [ref=f3e165]:
+              - link [ref=f3e166] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/b5f3407299692ab9eb30c8b46eff901c57a551871cd9a5ec3c224dd162a21a12/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d68617272792d73616e6468752673686f775f69636f6e733d7472756526686964655f7469746c653d7472756526686964655f626f726465723d74727565267468656d653d746f6b796f6e6967687426636f756e745f707269766174653d74727565
+              - link [ref=f3e168] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/2316cc249001f724dae3023ebaae9dd1c80821682a873a6803144cc521010cac/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d68617272792d73616e646875266c61796f75743d636f6d7061637426686964655f626f726465723d74727565267468656d653d746f6b796f6e69676874
+              - paragraph [ref=f3e170]:
+                - link [ref=f3e171] [cursor=pointer]:
+                  - /url: https://camo.githubusercontent.com/ebd2b6f858ba71c7692370ef3acea16ceaa0abc05ee922989b3f13809893c54e/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d68617272792d73616e64687526686964655f626f726465723d74727565267468656d653d746f6b796f6e69676874
+                  - img "GitHub Streak" [ref=f3e172]
+              - img "contribution snake animation" [ref=f3e175]
+            - generic [ref=f3e176]:
+              - heading "Elsewhere" [level=2] [ref=f3e177]
+              - 'link "Permalink: Elsewhere" [ref=f3e178] [cursor=pointer]':
+                - /url: "#elsewhere"
+            - list [ref=f3e181]:
+              - listitem [ref=f3e182]:
+                - text: "Portfolio:"
+                - link "harry-sandhu.github.io/portfolio" [ref=f3e183] [cursor=pointer]:
+                  - /url: https://harry-sandhu.github.io/portfolio/
+              - listitem [ref=f3e184]:
+                - text: "LinkedIn:"
+                - link "harcharan-singh-5789b625a" [ref=f3e185] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/harcharan-singh-5789b625a
+              - listitem [ref=f3e186]:
+                - text: "Email:"
+                - link "singh.harcharan2003@gmail.com" [ref=f3e187] [cursor=pointer]:
+                  - /url: mailto:singh.harcharan2003@gmail.com
+        - generic [ref=f3e189]:
+          - heading "Pinned Loading" [level=2] [ref=f3e190]:
+            - text: Pinned
+            - generic: Loading
+            - status
+          - list [ref=f3e192]:
+            - listitem [ref=f3e193]:
+              - generic [ref=f3e195]:
+                - generic [ref=f3e197]:
+                  - link "Campfire" [ref=f3e201] [cursor=pointer]:
+                    - /url: /harry-sandhu/Campfire
+                  - text: Public
+                - paragraph [ref=f3e202]: "Internal ticket-management system: Express/MongoDB API with RBAC, boards, and audit logging, plus a Next.js frontend."
+                - paragraph [ref=f3e203]:
+                  - generic [ref=f3e204]: TypeScript
+            - listitem [ref=f3e206]:
+              - generic [ref=f3e208]:
+                - generic [ref=f3e210]:
+                  - link "FLOPPYROUGE" [ref=f3e214] [cursor=pointer]:
+                    - /url: /harry-sandhu/FLOPPYROUGE
+                  - text: Public
+                - paragraph [ref=f3e215]: 2D roguelite built for a 1.44MB size-constrained game jam. Raw Win32, C++20, no engine, no external libraries.
+                - paragraph [ref=f3e216]:
+                  - generic [ref=f3e217]: C++
+            - listitem [ref=f3e219]:
+              - generic [ref=f3e221]:
+                - generic [ref=f3e223]:
+                  - link "portfolio" [ref=f3e227] [cursor=pointer]:
+                    - /url: /harry-sandhu/portfolio
+                  - text: Public
+                - paragraph [ref=f3e228]: Editorial-style software engineering portfolio built with React, TypeScript, Vite, and Tailwind CSS.
+                - paragraph [ref=f3e229]:
+                  - generic [ref=f3e230]: TypeScript
+            - listitem [ref=f3e232]:
+              - generic [ref=f3e234]:
+                - generic [ref=f3e236]:
+                  - link "ROTOR" [ref=f3e240] [cursor=pointer]:
+                    - /url: /harry-sandhu/ROTOR
+                  - text: Public
+                - paragraph [ref=f3e241]: "Compatibility-first drone-building platform: a Bun/Turborepo monorepo with Fastify, Drizzle, PostgreSQL, and a Next.js guided builder."
+                - paragraph [ref=f3e242]:
+                  - generic [ref=f3e243]: TypeScript
+            - listitem [ref=f3e245]:
+              - generic [ref=f3e247]:
+                - generic [ref=f3e249]:
+                  - link "Web3-encrypted-files-vault" [ref=f3e253] [cursor=pointer]:
+                    - /url: /harry-sandhu/Web3-encrypted-files-vault
+                  - text: Public
+                - paragraph [ref=f3e254]: Client-side encrypted file vault using AES-GCM encryption with wallet-signature and PIN-based key derivation.
+                - paragraph [ref=f3e255]:
+                  - generic [ref=f3e256]: TypeScript
+            - listitem [ref=f3e258]:
+              - generic [ref=f3e260]:
+                - generic [ref=f3e262]:
+                  - link "website-crawler" [ref=f3e266] [cursor=pointer]:
+                    - /url: /harry-sandhu/website-crawler
+                  - text: Public
+                - paragraph [ref=f3e267]: CLI that crawls a site and audits SEO, accessibility, performance, and security, producing scored HTML/PDF reports.
+                - paragraph [ref=f3e268]:
+                  - generic [ref=f3e269]: Python
+        - img "Loading" [ref=f3e275]
+  - contentinfo [ref=f3e278]:
+    - heading "Footer" [level=2] [ref=f3e279]
+    - generic [ref=f3e280]:
+      - generic [ref=f3e281]:
+        - link "GitHub Homepage" [ref=f3e282] [cursor=pointer]:
+          - /url: https://github.com
+        - generic [ref=f3e285]: © 2026 GitHub, Inc.
+      - navigation "Footer" [ref=f3e286]:
+        - heading "Footer navigation" [level=3] [ref=f3e287]
+        - list "Footer navigation" [ref=f3e288]:
+          - listitem [ref=f3e289]:
+            - link "Terms" [ref=f3e290] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/github-terms/github-terms-of-service
+          - listitem [ref=f3e291]:
+            - link "Privacy" [ref=f3e292] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+          - listitem [ref=f3e293]:
+            - link "Security" [ref=f3e294] [cursor=pointer]:
+              - /url: https://github.com/security
+          - listitem [ref=f3e295]:
+            - link "Status" [ref=f3e296] [cursor=pointer]:
+              - /url: https://www.githubstatus.com/
+          - listitem [ref=f3e297]:
+            - link "Community" [ref=f3e298] [cursor=pointer]:
+              - /url: https://github.community/
+          - listitem [ref=f3e299]:
+            - link "Docs" [ref=f3e300] [cursor=pointer]:
+              - /url: https://docs.github.com/
+          - listitem [ref=f3e301]:
+            - link "Contact" [ref=f3e302] [cursor=pointer]:
+              - /url: https://support.github.com?tags=dotcom-footer
+          - listitem [ref=f3e303]:
+            - button "Manage cookies" [ref=f3e305] [cursor=pointer]
+          - listitem [ref=f3e306]:
+            - button "Do not share my personal information" [ref=f3e308] [cursor=pointer]

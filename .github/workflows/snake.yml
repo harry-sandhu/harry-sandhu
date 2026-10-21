@@ -20,7 +20,7 @@ jobs:
           github_user_name: harry-sandhu
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#7aa2f7,#bb9af7,#7dcfff&color_dots=#1a1b27,#283457,#3d59a1,#5a7bc7,#7aa2f7&color_dark=#1a1b27
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
